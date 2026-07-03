@@ -1,0 +1,8 @@
+#:schema node_modules/wrangler/config-schema.json
+name = "n"
+pages_build_output_dir = "./dist"
+compatibility_date = "2024-01-01"
+
+[vars]
+# You can define global environment variables here if needed
+NODE_VERSION = "20"

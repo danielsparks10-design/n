@@ -1,0 +1,6 @@
+{
+  "name": "Daniel Sparks - Credit Cards",
+  "description": "High-end credit card recommendations and comparison dashboard by Daniel Sparks, featuring a Bilt-inspired card compare engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
